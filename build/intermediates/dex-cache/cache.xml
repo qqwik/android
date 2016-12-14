@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_0c48556449b0171708b1274e609732930acec669\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_9f942094088ac476e0be7e5599b05998b218ec76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_39ef2e6c7bf18dce423c13d824910f0e5f64d2f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f85c64596bf859e436a4765353198439f4ed3532">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3c526bc10a26ed754cd31d97e4d56693f46cb7a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="54bce57989c3f0f9790b136b276817753ab65dc0">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e1cd262997d0c8a0f8388f26bb9b73bb3fa61ffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_b4d70772237e58f848fea65cb8b1013f6fc434d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_57a4454b6cab3941979cddcb33d5573627612c53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_185a578fb0c00fbe7d2839e714561ad75a523f9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4b3791ddeac26b6681c669bb578dd1c7d8c18bd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ee40e0673b1efa84a9943cdd34ca634030dac03b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_97c050d0af5f2e9f41fa7bb8add9647388fcdc9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_96ce87993457b6b164acf55a196e89ac374b30d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_41d2213d4f37e75c180b61cce7bf0e13b330f6c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_42c3e0f15d6c04d5433278b59c882781758cab2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_2d3c2b521861e7e35e0815416c46a7b0ac2d1623\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_de0e6ad1fae7de2854f06b49d41e8d5a02465ddf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_af0593b9616c6f413f75a0eb73ce8b91607e0547\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_407ca4755ab29069d0248b7a26cd6779e90c6123\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_4c60a5d3ddb4ff07b70fab39cf631a58d9f14ca7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\black\AndroidStudioProjects\MedHelp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_ced3ffdda4a6b8667f127f4e5b09fb1239813662\classes.dex" />
+    </item>
+
+</items>

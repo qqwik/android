@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <TextView
+        android:text="@string/med_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/med_name"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/editText"
+        android:layout_below="@+id/med_name"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:padding="1dp"
+        android:background="?android:attr/actionModeBackground" />
+
+    <Button
+        android:text="Done"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/btnDone"
+        android:clickable="true"
+        android:onClick="onClick"/>
+
+    <TextView
+        android:text="@string/med_times_per_day"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/med_times_per_day"
+        android:layout_marginTop="37dp"
+        android:layout_below="@+id/editText"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:showDividers="end"
+        android:layout_below="@+id/med_times_per_day"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/btnDone">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|center"
+            android:baselineAligned="true"
+            android:layout_weight="1">
+
+            <TextView
+                android:text="11:00"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/textView2"
+                android:layout_weight="6"
+                android:clickable="true"
+                android:onClick="onClick"
+                android:elevation="1dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:textSize="24sp" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/checkBox5"
+                android:layout_weight="1"
+                android:gravity="center_vertical|center_horizontal"
+                android:textAlignment="gravity"
+                android:checked="true" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|center"
+            android:baselineAligned="true"
+            android:layout_weight="1">
+
+            <TextView
+                android:text="15:00"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/textView3"
+                android:layout_weight="6"
+                android:clickable="true"
+                android:onClick="onClick"
+                android:elevation="1dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:textSize="24sp" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/checkBox6"
+                android:layout_weight="1"
+                android:gravity="center_vertical|center_horizontal"
+                android:textAlignment="gravity" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|center"
+            android:baselineAligned="true"
+            android:layout_weight="1">
+
+            <TextView
+                android:text="19:00"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/textView4"
+                android:layout_weight="6"
+                android:clickable="true"
+                android:onClick="onClick"
+                android:elevation="1dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:textSize="24sp" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/checkBox7"
+                android:layout_weight="1"
+                android:gravity="center_vertical|center_horizontal"
+                android:textAlignment="gravity" />
+        </TableRow>
+
+    </TableLayout>
+</RelativeLayout>
